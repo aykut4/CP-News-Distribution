@@ -20,10 +20,7 @@ int solveProblem (map<int, list<int> > & graph, int & user) {
 	return size;
 }
 
-
-
 int main (void) {
-
 
 	ios_base::sync_with_stdio (false);
 	cin.tie (NULL);
